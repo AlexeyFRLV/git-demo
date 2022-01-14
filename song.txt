@@ -17,4 +17,3 @@ Couplete 3:
     attack!
 
 Couplete 4:
-    some text will be here
